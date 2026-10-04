@@ -28,6 +28,7 @@ learning Design Patterns, SOLID principles, and Low-Level Design (LLD).
 - Elevator System
 - Parking Lot
 - Splitwise
+- RateLimiter
 
 ## 🛠️ Tech Stack
 
