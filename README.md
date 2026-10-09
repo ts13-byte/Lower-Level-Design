@@ -29,6 +29,7 @@ learning Design Patterns, SOLID principles, and Low-Level Design (LLD).
 - Parking Lot
 - Splitwise
 - RateLimiter
+- CricBuzz
 
 ## 🛠️ Tech Stack
 
