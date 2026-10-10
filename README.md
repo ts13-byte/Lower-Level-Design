@@ -38,6 +38,7 @@ learning Design Patterns, SOLID principles, and Low-Level Design (LLD).
 - Design Patterns
 - SOLID Principles
 - Low-Level Design
+- Shopping Cart with discount coupons
 
 ## 🎯 Purpose
 
