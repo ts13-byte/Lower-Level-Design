@@ -13,6 +13,7 @@ learning Design Patterns, SOLID principles, and Low-Level Design (LLD).
 - Observer Pattern
 - Singleton Pattern
 - Strategy Pattern
+- State Pattern
 
 ### SOLID Principles
 
@@ -31,6 +32,7 @@ learning Design Patterns, SOLID principles, and Low-Level Design (LLD).
 - RateLimiter
 - CricBuzz
 - Shopping Cart with discount coupons
+- Food Delivery - State Machine
 
 ## 🛠️ Tech Stack
 
