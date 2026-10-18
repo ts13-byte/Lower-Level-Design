@@ -33,6 +33,7 @@ learning Design Patterns, SOLID principles, and Low-Level Design (LLD).
 - CricBuzz
 - Shopping Cart with discount coupons
 - Food Delivery - State Machine
+- Logging Framework
 
 ## 🛠️ Tech Stack
 
