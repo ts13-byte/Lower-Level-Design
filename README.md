@@ -34,6 +34,7 @@ learning Design Patterns, SOLID principles, and Low-Level Design (LLD).
 - Shopping Cart with discount coupons
 - Food Delivery - State Machine
 - Logging Framework
+- Inventory Management
 
 ## 🛠️ Tech Stack
 
